@@ -4,8 +4,8 @@ github_repo: AT32TQ14401
 github_url: https://github.com/mlab-modules/AT32TQ14401
 homepage: false
 images:
-- doc/img/AT32TQ14401A_big.png
 - doc/img/AT32TQ14401A_QRcode.png
+- doc/img/AT32TQ14401A_big.png
 - doc/img/AT32TQ14401A_small.png
 mark: 50
 tags: []
