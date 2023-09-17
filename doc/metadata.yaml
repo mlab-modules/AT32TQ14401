@@ -1,4 +1,5 @@
-description: null
+description: Module is intended for development of applications based on powerful
+  32bit Atmel microcontrolers with AVR32 core AT32UC3A series.
 github_branch: AT32TQ14401A
 github_repo: AT32TQ14401
 github_url: https://github.com/mlab-modules/AT32TQ14401
